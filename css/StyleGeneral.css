@@ -220,7 +220,7 @@ img{
 }
 
 .footer{
-    background-color: var(--secondary);
+    background-color: black;
     padding-bottom: 3rem;
     margin-top: 4rem;
 }
